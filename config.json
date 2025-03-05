@@ -1,0 +1,13 @@
+{
+    "subreddits": ["marketing", "b2bmarketing"],
+    "interval": 600,
+    "reddit": {
+      "client_id": "uqpeRaKfAuvpclwayFLKFQ",
+      "client_secret": "vm0WYLftc-qLyGILp-mDL7nTGWOerw",
+      "user_agent": "my_reddit_bot_v1"
+    },
+    "ai": {
+      "api_key": "a40e6d5116a144479c7426eb563b06f9",
+      "base_url": "https://api.aimlapi.com"
+    }
+  }
